@@ -1,0 +1,9 @@
+{
+  "cargo_desejado": ["Desenvolvedor", "Programador"],
+  "nivel": ["estágio", "trainee", "júnior"],
+  "tecnologias": ["Python", "Java"],
+  "formacao": "Bacharel em Ciência da Computação",
+  "cidades": ["Ponta Grossa"],
+  "modalidades": ["presencial", "híbrido", "remoto"],
+  "nota_minima": 7
+}
